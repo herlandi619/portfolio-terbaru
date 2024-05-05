@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/portfolio-terbaru/static/css/main.152e06ed.css",
+    "main.js": "/portfolio-terbaru/static/js/main.d19ff8a3.js",
+    "static/js/787.9b8e5359.chunk.js": "/portfolio-terbaru/static/js/787.9b8e5359.chunk.js",
+    "static/media/sneakers.png": "/portfolio-terbaru/static/media/sneakers.8a3c84ba339359d6d7d2.png",
+    "static/media/goblog.png": "/portfolio-terbaru/static/media/goblog.25e243747ead1aafc196.png",
+    "static/media/5.jpg": "/portfolio-terbaru/static/media/5.328116f287680712ed95.jpg",
+    "static/media/6.jpg": "/portfolio-terbaru/static/media/6.568ea80afb4d4cebc3c1.jpg",
+    "static/media/4.jpg": "/portfolio-terbaru/static/media/4.0ee4311610e7c942b47e.jpg",
+    "static/media/stokbarang.jpeg": "/portfolio-terbaru/static/media/stokbarang.9364bbf3fc9261100333.jpeg",
+    "static/media/3.jfif": "/portfolio-terbaru/static/media/3.47695829bbd787683703.jfif",
+    "static/media/7.png": "/portfolio-terbaru/static/media/7.7f684ce76d9e5c37d9dc.png",
+    "static/media/1.jpg": "/portfolio-terbaru/static/media/1.8ac1eb37937449f77ccb.jpg",
+    "static/media/2.jfif": "/portfolio-terbaru/static/media/2.7df397855d8ccf703488.jfif",
+    "static/media/kasir.png": "/portfolio-terbaru/static/media/kasir.69c10528550fda6ad0fd.png",
+    "static/media/greenbull.png": "/portfolio-terbaru/static/media/greenbull.11db18ffe501fa365744.png",
+    "static/media/cruddasar.png": "/portfolio-terbaru/static/media/cruddasar.b8a3e3bce8ce4a35f8ce.png",
+    "static/media/design.png": "/portfolio-terbaru/static/media/design.9e6ea8290691c7efe827.png",
+    "static/media/livewire.png": "/portfolio-terbaru/static/media/livewire.676a652e52f0360395fc.png",
+    "static/media/consulting.png": "/portfolio-terbaru/static/media/consulting.2dc7284300c84181539e.png",
+    "static/media/code.png": "/portfolio-terbaru/static/media/code.f4f54b48494bb8e30d1a.png",
+    "index.html": "/portfolio-terbaru/index.html",
+    "main.152e06ed.css.map": "/portfolio-terbaru/static/css/main.152e06ed.css.map",
+    "main.d19ff8a3.js.map": "/portfolio-terbaru/static/js/main.d19ff8a3.js.map",
+    "787.9b8e5359.chunk.js.map": "/portfolio-terbaru/static/js/787.9b8e5359.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.152e06ed.css",
+    "static/js/main.d19ff8a3.js"
+  ]
+}
