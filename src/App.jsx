@@ -22,6 +22,7 @@ import goblog from "./goblog.png";
 import livewire from "./livewire.png";
 import cruddasar from "./cruddasar.png";
 import stokbarang from "./stokbarang.jpeg";
+import penduduk from "./penduduk.jpeg";
 
 function App() {
   const [darkMode, setDarkMode] = useState(false);
@@ -52,7 +53,7 @@ function App() {
                   href="https://drive.google.com/file/d/1xMLWD8_qS31kEATcSMuKXNWJ-sPUH9fh/view"
                   target="_blank"
                 >
-                  Resume
+                  RESUME
                 </a>
               </li>
             </ul>
@@ -71,6 +72,16 @@ function App() {
               <p data-aos="fade-right" className="text-md py-5 leading-7 mx-auto text-gray-800 md:text-xl md:max-w-xl dark:text-slate-100">
                 Hello... Selamat datang diportfolio saya, yang dimana saya ingin memberitahukan kemampuan ataupun keterampilan saya dibidang berbasis program ataupun non-program.
               </p>
+
+              <div className="my-4 sm:my-4 md:my-4">
+                <a
+                  className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md hover:opacity-80 ease-in-out duration-300"
+                  href="https://drive.google.com/file/d/1xMLWD8_qS31kEATcSMuKXNWJ-sPUH9fh/view"
+                  target="_blank"
+                >
+                  Klik Disini Untuk Melihat CV Saya
+                </a>
+              </div>
 
               <div className="text-5xl flex justify-center gap-16 py-2 text-gray-800 md:text-6xl">
                 <a data-aos="fade-right" href="https://api.whatsapp.com/send?phone=6289626033902" target="_blank">
@@ -260,6 +271,21 @@ function App() {
                 </a>
               </div>
             </div>
+
+            <div data-aos="zoom-in-right" className="grid gap-2 shadow-lg rounded-xl overflow-hidden  hover:scale-110 duration-300 ease-in-out cursor-pointer dark:bg-slate-100">
+              <img src={penduduk} alt="kasir" />
+              <div className="p-5">
+                <p className="h-32 overflow-auto">
+                  Contoh Aplikasi Manage Data <span className="text-teal-500">Penduduk</span> dasar yang dibuat menggunakan PHP & MYSQL + Bootstrap 5
+                </p>
+              </div>
+              <div className="mt-3">
+                <a className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md  hover:opacity-80 ease-in-out relative right-3 duration-300" href="https://pdpucung001.000webhostapp.com/login.php" target={"_blank"}>
+                  Selengkapnya Klik disini
+                </a>
+              </div>
+            </div>
+
           </div>
         </section>
 
