@@ -50,7 +50,7 @@ function App() {
               <li>
                 <a
                   className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8 hover:opacity-80 ease-in-out duration-300"
-                  href="https://drive.google.com/file/d/1hdQG2AWUtoLhT_F-T2ugYitZIkoyucJI/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1L96P7RdnRrF31VDFEQAC5egSHIFZiNt7/view"
                   target="_blank"
                 >
                   RESUME
@@ -76,7 +76,7 @@ function App() {
               <div className="my-4 sm:my-4 md:my-4">
                 <a
                   className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md hover:opacity-80 ease-in-out duration-300"
-                  href="https://drive.google.com/file/d/1hdQG2AWUtoLhT_F-T2ugYitZIkoyucJI/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1L96P7RdnRrF31VDFEQAC5egSHIFZiNt7/view"
                   target="_blank"
                 >
                   Klik Disini Untuk Melihat CV Saya
