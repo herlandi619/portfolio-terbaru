@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-terbaru/static/css/main.cb56e7a0.css",
-    "main.js": "/portfolio-terbaru/static/js/main.7b5c19f0.js",
+    "main.js": "/portfolio-terbaru/static/js/main.fa011c5d.js",
     "static/js/787.9b8e5359.chunk.js": "/portfolio-terbaru/static/js/787.9b8e5359.chunk.js",
     "static/media/sneakers.png": "/portfolio-terbaru/static/media/sneakers.8a3c84ba339359d6d7d2.png",
     "static/media/goblog.png": "/portfolio-terbaru/static/media/goblog.25e243747ead1aafc196.png",
@@ -23,11 +23,11 @@
     "static/media/code.png": "/portfolio-terbaru/static/media/code.f4f54b48494bb8e30d1a.png",
     "index.html": "/portfolio-terbaru/index.html",
     "main.cb56e7a0.css.map": "/portfolio-terbaru/static/css/main.cb56e7a0.css.map",
-    "main.7b5c19f0.js.map": "/portfolio-terbaru/static/js/main.7b5c19f0.js.map",
+    "main.fa011c5d.js.map": "/portfolio-terbaru/static/js/main.fa011c5d.js.map",
     "787.9b8e5359.chunk.js.map": "/portfolio-terbaru/static/js/787.9b8e5359.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb56e7a0.css",
-    "static/js/main.7b5c19f0.js"
+    "static/js/main.fa011c5d.js"
   ]
 }
