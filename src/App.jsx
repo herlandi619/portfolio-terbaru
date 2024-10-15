@@ -50,7 +50,7 @@ function App() {
               <li>
                 <a
                   className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8 hover:opacity-80 ease-in-out duration-300"
-                  href="https://drive.google.com/file/d/1L96P7RdnRrF31VDFEQAC5egSHIFZiNt7/view"
+                  href="https://drive.google.com/file/d/1O24xX0HCTtJHxmDAlUTGsZXADIElna7w/view?usp=sharing"
                   target="_blank"
                 >
                   RESUME
@@ -76,7 +76,7 @@ function App() {
               <div className="my-4 sm:my-4 md:my-4">
                 <a
                   className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md hover:opacity-80 ease-in-out duration-300"
-                  href="https://drive.google.com/file/d/1L96P7RdnRrF31VDFEQAC5egSHIFZiNt7/view"
+                  href="https://drive.google.com/file/d/1O24xX0HCTtJHxmDAlUTGsZXADIElna7w/view?usp=sharing"
                   target="_blank"
                 >
                   Klik Disini Untuk Melihat CV Saya
@@ -84,7 +84,7 @@ function App() {
               </div>
 
               <div className="text-5xl flex justify-center gap-16 py-2 text-gray-800 md:text-6xl">
-                <a data-aos="fade-right" href="https://api.whatsapp.com/send?phone=6289626033902" target="_blank">
+                <a data-aos="fade-right" href="https://api.whatsapp.com/send?phone=6289527770013" target="_blank">
                   <AiOutlineWhatsApp className="text-gray-600 hover:scale-125 ease-in-out duration-300 hover:text-teal-500 dark:text-slate-100 dark:hover:text-teal-500 hover:cursor-pointer" />
                 </a>
 
@@ -359,7 +359,7 @@ function App() {
           <hr />
           <div className="mt-10 pb-10 md:flex lg:flex">
             <div className="text-5xl basis-1/2 flex justify-center gap-16 py-2 text-gray-800 md:text-6xl">
-              <a data-aos="fade-right" href="https://api.whatsapp.com/send?phone=6289626033902" target="_blank">
+              <a data-aos="fade-right" href="https://api.whatsapp.com/send?phone=6289527770013" target="_blank">
                 <AiOutlineWhatsApp className="text-gray-600 hover:scale-125 ease-in-out duration-300 hover:text-teal-500 dark:text-slate-100 dark:hover:text-teal-500 hover:cursor-pointer" />
               </a>
 
@@ -379,13 +379,13 @@ function App() {
                 <p className="dark:text-slate-200">herlandi619@gmail.com</p>
                 <p className="dark:text-slate-200">Pondok Pucung Kec.Pondok Aren</p>
                 <p className="dark:text-slate-200">Tangerang Selatan</p>
-                <p className="dark:text-slate-200">0896-2603-3902</p>
+                <p className="dark:text-slate-200">0895-2777-0013</p>
               </div>
             </div>
           </div>
 
           <p className="text-center text-xs dark:text-slate-200">
-            Copyright <span className="font-bold text-teal-500 ">Renold Herlandi</span> || ReacJs + Tailwind-CSS
+             <span className="font-bold text-teal-500 ">Renold Herlandi &copy;</span>
           </p>
         </section>
       </main>
