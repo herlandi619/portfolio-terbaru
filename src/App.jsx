@@ -50,7 +50,7 @@ function App() {
               <li>
                 <a
                   className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8 hover:opacity-80 ease-in-out duration-300"
-                  href="https://drive.google.com/file/d/1O24xX0HCTtJHxmDAlUTGsZXADIElna7w/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1FMP7RchP1X6mv1RfpaQfeXXuKXF3WLFY/view"
                   target="_blank"
                 >
                   RESUME
@@ -76,10 +76,10 @@ function App() {
               <div className="my-4 sm:my-4 md:my-4">
                 <a
                   className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md hover:opacity-80 ease-in-out duration-300"
-                  href="https://drive.google.com/file/d/1O24xX0HCTtJHxmDAlUTGsZXADIElna7w/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1FMP7RchP1X6mv1RfpaQfeXXuKXF3WLFY/view"
                   target="_blank"
                 >
-                  Klik Disini Untuk Melihat CV Saya
+                  My CV
                 </a>
               </div>
 
@@ -153,7 +153,7 @@ function App() {
               <p className="text-gray-800 py-1">Bootstrap Framework CSS</p>
               <p className="text-gray-800 py-1">Tailwind-Css Framework CSS</p>
               <p className="text-gray-800 py-1">Laravel 8 Framework PHP</p>
-              <p className="text-gray-800 py-1">Dan Database MYSQL Framework SQL</p>
+              <p className="text-gray-800 py-1">Database MYSQL</p>
             </div>
           </div>
         </section>
@@ -385,7 +385,7 @@ function App() {
           </div>
 
           <p className="text-center text-xs dark:text-slate-200">
-             <span className="font-bold text-teal-500 ">Renold Herlandi &copy;</span>
+             <span className="font-bold text-teal-500 ">Renold Herlandi - 2024 &copy;</span>
           </p>
         </section>
       </main>
